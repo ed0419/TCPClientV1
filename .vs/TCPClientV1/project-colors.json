@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8870b579-3e14-4249-9f0d-82d3d1ac97d6": {
+      "ProjectGuid": "8870b579-3e14-4249-9f0d-82d3d1ac97d6",
+      "DisplayName": "TCPClientV1",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "其他檔案",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
